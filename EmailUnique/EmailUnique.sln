@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailUnique", "EmailUnique\EmailUnique.csproj", "{D44F17C8-904D-4C13-9AE4-990CA067D2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44F17C8-904D-4C13-9AE4-990CA067D2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44F17C8-904D-4C13-9AE4-990CA067D2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44F17C8-904D-4C13-9AE4-990CA067D2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44F17C8-904D-4C13-9AE4-990CA067D2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A59064EC-D2FC-4F43-B107-AD5D84EEAED7}
+	EndGlobalSection
+EndGlobal
